@@ -6,7 +6,7 @@ This is a dummy application to print invoices of 2 types, we have implemented th
 Vue version - In this we are using Vue 3 with composition API.
 
 npm Dependencies - [vue-router](https://v3.router.vuejs.org/guide/),
-[html2pdf](https://www.npmjs.com/package/html2pdf.js/v/0.9.0), [axios](https://www.npmjs.com/package/axios)
+[html2pdf](https://www.npmjs.com/package/html2pdf.js/v/0.9.0), [axios](https://www.npmjs.com/package/axios), [Vuex](https://vuex.vuejs.org/)
 
 ## Demo
 Netlify URL - [https://sweet-dusk-d00b30.netlify.app/](https://sweet-dusk-d00b30.netlify.app/)
