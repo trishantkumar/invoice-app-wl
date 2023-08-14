@@ -9,7 +9,7 @@ npm Dependencies - [vue-router](https://v3.router.vuejs.org/guide/),
 [html2pdf](https://www.npmjs.com/package/html2pdf.js/v/0.9.0), [axios](https://www.npmjs.com/package/axios)
 
 ## Demo
-Netlify URL - []()
+Netlify URL - [https://sweet-dusk-d00b30.netlify.app/](https://sweet-dusk-d00b30.netlify.app/)
 
 ## Web application details
 In this we have 1 sales invoice and 2 invoices, on "/" route you will see the sales invoice after clicking on Submit button
